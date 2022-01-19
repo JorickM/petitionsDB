@@ -1,13 +1,13 @@
 {
   "Users":[
     {
-      "codUser": 1,
+      "id": 1,
       "name": "Jorick",
       "email": "jorick@gmail.com",
       "password": "jorick"
     },
     {
-      "codUser": 2,
+      "id": 2,
       "name": "Zé",
       "email": "ze@gmail.com",
       "password": "ze"
