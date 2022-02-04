@@ -12,5 +12,30 @@
       "password": "ze",
       "url":"https://cms.ipbeja.pt/theme/image.php/classic/core/1634811957/u/f1"
     }
- ]
+ ],
+  "Petitions":[
+    {
+     "id":1, 
+     "titel":"Programação",
+     "body":"Programação é uma coisa muito fixe!",
+     "category":"Entretenimento",
+     "noSignatures":"10",
+     "data":"2022/02/03"
+    },
+    {
+     "id":2, 
+     "titel":"Deviamos votar no ...",
+     "body":"Deviamos votar no x, e levar isto para o tribubal!",
+     "category":"Política",
+     "noSignatures":"1",
+     "data":"2022/02/02"
+    }
+  ],
+  "Comments":[
+    {
+      "id":1,
+      "body":"Concordo Plenamente!",
+      "petition_id":1
+    }
+  ]
 }
