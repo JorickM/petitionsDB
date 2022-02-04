@@ -20,7 +20,8 @@
      "body":"Programação é uma coisa muito fixe!",
      "category":"Entretenimento",
      "noSignatures":"10",
-     "data":"2022/02/03"
+     "timestamp":"",
+      "userId":"1"
     },
     {
      "id":2, 
@@ -28,14 +29,17 @@
      "body":"Deviamos votar no x, e levar isto para o tribubal!",
      "category":"Política",
      "noSignatures":"1",
-     "data":"2022/02/02"
+     "timestamp":"",
+     "userId":"2"
+      
     }
   ],
   "Comments":[
     {
       "id":1,
       "body":"Concordo Plenamente!",
-      "data":"2022/02/03",
+      "timeStamp":"",
+      "userId":1,
       "petition_id":1
     }
   ]
