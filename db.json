@@ -2,15 +2,15 @@
   "Users":[
     {
       "id": 1,
-      "name": "Jorick",
-      "email": "jorick@gmail.com",
-      "password": "jorick"
+      "email": "21138@stu.ipbeja.pt",
+      "password": "jorick",
+      "url":"https://lh3.googleusercontent.com/a-/AOh14GiE2Crbtu80O-CjkYmmxDb72iTEFmdwzBNyn74mKg=s288-p-no"
     },
     {
       "id": 2,
-      "name": "Zé",
       "email": "ze@gmail.com",
-      "password": "ze"
+      "password": "ze",
+      "url":"https://cms.ipbeja.pt/theme/image.php/classic/core/1634811957/u/f1"
     }
  ]
 }
