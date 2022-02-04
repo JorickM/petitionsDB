@@ -16,7 +16,7 @@
   "Petitions":[
     {
      "id":1, 
-     "titel":"Programação",
+     "title":"Programação",
      "body":"Programação é uma coisa muito fixe!",
      "category":"Entretenimento",
      "noSignatures":"10",
@@ -24,7 +24,7 @@
     },
     {
      "id":2, 
-     "titel":"Deviamos votar no ...",
+     "title":"Deviamos votar no ...",
      "body":"Deviamos votar no x, e levar isto para o tribubal!",
      "category":"Política",
      "noSignatures":"1",
