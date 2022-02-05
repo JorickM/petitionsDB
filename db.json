@@ -15,32 +15,32 @@
  ],
   "Petitions":[
     {
-     "id":"1", 
+     "id":1, 
      "title":"Programação",
      "body":"Programação é uma coisa muito fixe!",
      "category":"Entretenimento",
-     "noSignatures":"10",
-     "timestamp":"",
-      "userId":"1"
+     "noSignatures":10,
+     "timestamp":1644023053,
+      "userId":1
     },
     {
-     "id":"2", 
+     "id":2, 
      "title":"Deviamos votar no ...",
      "body":"Deviamos votar no x, e levar isto para o tribubal!",
      "category":"Política",
-     "noSignatures":"1",
-     "timestamp":"",
-     "userId":"2"
+     "noSignatures":1,
+     "timestamp":1644023053,
+     "userId":2
       
     }
   ],
   "Comments":[
     {
-      "id":"1",
+      "id":1,
       "body":"Concordo Plenamente!",
-      "timeStamp":"",
-      "userId":"1",
-      "petitionId":"1"
+      "timeStamp":1644023053,
+      "userId":1,
+      "petitionId":1
     }
   ]
 }
