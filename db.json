@@ -1,13 +1,13 @@
 {
   "Users":[
     {
-      "id": 1,
+      "id": "1",
       "email": "21138@stu.ipbeja.pt",
       "password": "jorick",
       "url":"https://lh3.googleusercontent.com/a-/AOh14GiE2Crbtu80O-CjkYmmxDb72iTEFmdwzBNyn74mKg=s288-p-no"
     },
     {
-      "id": 2,
+      "id": "2",
       "email": "ze@gmail.com",
       "password": "ze",
       "url":"https://cms.ipbeja.pt/theme/image.php/classic/core/1634811957/u/f1"
@@ -15,7 +15,7 @@
  ],
   "Petitions":[
     {
-     "id":1, 
+     "id":"1", 
      "title":"Programação",
      "body":"Programação é uma coisa muito fixe!",
      "category":"Entretenimento",
@@ -24,7 +24,7 @@
       "userId":"1"
     },
     {
-     "id":2, 
+     "id":"2", 
      "title":"Deviamos votar no ...",
      "body":"Deviamos votar no x, e levar isto para o tribubal!",
      "category":"Política",
@@ -36,11 +36,11 @@
   ],
   "Comments":[
     {
-      "id":1,
+      "id":"1",
       "body":"Concordo Plenamente!",
       "timeStamp":"",
-      "userId":1,
-      "petition_id":1
+      "userId":"1",
+      "petition_id":"1"
     }
   ]
 }
